@@ -1,0 +1,28 @@
+.inProgressContainer{
+    text-align: center;
+    width: 300px;
+    padding: 20px;
+}
+
+.taskForm {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .taskList {
+    margin-top: 20px;
+  }
+  
+  .taskItem {
+    padding: 10px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+  } 
+
+  .taskItem:hover{
+    background-color: rgb(198, 236, 249);
+  }
